@@ -110,7 +110,7 @@
 		<p>
 			<em><strong>항공사 등급</strong></em>
 		</p>
-		<img src="https://user-images.githubusercontent.com/35192352/48932165-c0b60d00-ef3d-11e8-9266-22f2ae9ecde8.png" width="1000"></img>
+		<img src="https://user-images.githubusercontent.com/35192352/48932435-3a022f80-ef3f-11e8-94da-f387e978006f.png" width="1000"></img>
 	</li>
 	<li>
 		<p>
@@ -122,10 +122,7 @@
 		<p>
 			<em><strong>실시간 급상승</strong></em>
 		</p>
-		<img src="https://user-images.githubusercontent.com/35192352/48932166-c0b60d00-ef3d-11e8-868e-611d6aceccf7.png" width="1000"></img>
+		<img src="https://user-images.githubusercontent.com/35192352/48932434-39699900-ef3f-11e8-8825-535b2ab3b6f6.png" width="1000"></img>
 	</li>
 </ul>
-
-
-
 
