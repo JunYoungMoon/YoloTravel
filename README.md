@@ -120,7 +120,7 @@
 	</li>
 	<li>
 		<p>
-			<em><strong>공항 날씨</strong></em>
+			<em><strong>실시간 급상승</strong></em>
 		</p>
 		<img src="https://user-images.githubusercontent.com/35192352/48932166-c0b60d00-ef3d-11e8-868e-611d6aceccf7.png" width="1000"></img>
 	</li>
